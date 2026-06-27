@@ -4,7 +4,7 @@ I'm Marco, a computer science student based in Germany.
 
 I love building projects that challenge me and help me grow as a developer. 
 
-My main tech stack is Java, Python and ASM.
+My main tech stack is Java and Python.
 
 <!--
 **moliveira-de/moliveira-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
